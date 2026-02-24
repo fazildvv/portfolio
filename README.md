@@ -64,9 +64,8 @@ Usage, selling, rebranding, and commercial deployment are strictly prohibited.
 
 For permission requests:
 
-Email: [your email]  
-GitHub: https://github.com/yourusername  
-
+Email: fazilali.devv@gmail.com 
+GitHub: https://github.com/fazildvv
 ---
 
 🔥 Built with originality  
