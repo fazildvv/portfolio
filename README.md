@@ -2,7 +2,7 @@
 
 This repository contains the official source code of my personal portfolio.
 
-🌐 Live Website: [Add Live Link Here]  
+🌐 Live Website: [https://fazildvv.github.io/portfolio/]  
 👨‍💻 Designed & Developed by: Fazil Ali  
 
 ---
